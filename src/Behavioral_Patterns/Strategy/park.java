@@ -1,4 +1,4 @@
-package Strategy;
+package Behavioral_Patterns.Strategy;
 
 public class park {
 

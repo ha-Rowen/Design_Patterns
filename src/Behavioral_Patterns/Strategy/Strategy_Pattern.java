@@ -1,4 +1,4 @@
-package Strategy;
+package Behavioral_Patterns.Strategy;
 
 
 /* 학습 목표
