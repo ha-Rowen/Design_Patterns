@@ -1,6 +1,6 @@
 package Behavioral_Patterns.Strategy;
 
-public class tree_A implements Strategy_Pattern_I {
+public class tree_A implements tree {
 
 
     String tree="등꽃 나무";
