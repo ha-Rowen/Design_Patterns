@@ -1,3 +1,10 @@
-.idea/
-out/
-Design_patterns.iml/
+
+
+/*
+
+
+!/src/
+!/src/**
+
+
+!.gitignore
