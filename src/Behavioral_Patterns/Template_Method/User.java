@@ -1,4 +1,4 @@
-package Behavioral_Patterns.Apstract_Patten;
+package Behavioral_Patterns.Template_Method;
 
 public class User {
     String name;

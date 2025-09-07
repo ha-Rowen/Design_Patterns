@@ -1,4 +1,4 @@
-package Behavioral_Patterns.Apstract_Patten;
+package Behavioral_Patterns.Template_Method;
 
 abstract public class Apstract_calss {
     public void user_chak(User user){

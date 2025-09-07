@@ -13,4 +13,5 @@ public class tree_A implements tree {
     public void tree_print() {
         System.out.println(number+"번 "+tree+" :나무");
     }
+
 }

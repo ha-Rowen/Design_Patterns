@@ -5,6 +5,9 @@ public class main {
     static tree_B tree_B;
     static Strategy_Pattern Strategy;
 
+
+
+
     public static void main(String[] args) {
 
         tree_A = new tree_A(1);
@@ -15,6 +18,13 @@ public class main {
         //park_chain_system(false);
 
     }
+
+
+
+
+
+
+
     public static void park_start()
     {
         tree tree_A= new tree_A(1);

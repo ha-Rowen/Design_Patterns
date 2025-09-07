@@ -1,4 +1,4 @@
-package  Behavioral_Patterns.Apstract_Patten;
+package  Behavioral_Patterns.Template_Method;
 
 public class main {
     public static void main(String[] args) {
