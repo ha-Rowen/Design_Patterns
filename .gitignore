@@ -1,5 +1,4 @@
+*/
 
-
-.idea/**
-out/**
-README.md
+!src
+!README.md
