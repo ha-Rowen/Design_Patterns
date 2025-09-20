@@ -1,5 +1,4 @@
-!.gitignore
+.gitignore
 
 .idea/**
 out/**
-Design_Patterns.iml
